@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Autodesk\sqa-performance-scripts-loadrunner\Scripts\STG\SFDC\SFDC_CloneOpty_STG_git
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ec:\autodesk\sqa-performance-scripts-loadrunner\scripts\stg\sfdc\sfdc_cloneopty_stg_git\\logfile.log
+c:\autodesk\sqa-performance-scripts-loadrunner\scripts\stg\sfdc\sfdc_cloneopty_stg_git\\combined_SFDC_CloneOpty_STG_git.c
+c:\autodesk\sqa-performance-scripts-loadrunner\scripts\stg\sfdc\sfdc_cloneopty_stg_git\\pre_cci.c
